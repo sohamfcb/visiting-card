@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Visiting-Card-Text-Extractor.git
+   git clone https://github.com/sohamfcb/visiting-card.git
    cd Visiting-Card-Text-Extractor
    ```
 2. Create a virtual environment (optional but recommended):
